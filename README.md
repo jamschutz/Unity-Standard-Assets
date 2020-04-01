@@ -1,1 +1,1 @@
-# Unity-Standard-Assets
+Looks like Unity took down their Standard Assets. Hosting them here for now, for anyone who wants them.
